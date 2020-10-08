@@ -1,8 +1,10 @@
+**Notice**: This Git branch (``dev``) contains the CLTK's upcoming major release (v. 1.0.0). See `<https://github.com/cltk/tutorials/tree/master>`_ for the legacy tutorials.
+
+
 # About
 
-These are tutorials on how to get started using the CLTK in your research. Whereas [the CLTK official docs](https://docs.cltk.org) only explain individual functions, these notebooks are intended to be more illustrative of how you can use the functions together and answer real scholarly questions.
+Jupyter notebooks demonstrating how to use the CLTK.
 
-Pull requests are welcome.
 
 # License
 
