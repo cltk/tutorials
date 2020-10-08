@@ -6,6 +6,12 @@
 Jupyter notebooks demonstrating how to use the CLTK.
 
 
+# Use
+
+- Install supported Python version
+- Install pinned version of CLTK, Jupyter, and dependencies: ``$ pip install -r requirements.txt`` 
+
+
 # License
 
 MIT (see `LICENSE`).
