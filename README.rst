@@ -1,12 +1,14 @@
 **Notice**: This Git branch (``dev``) contains the CLTK's upcoming major release (v. 1.0.0). See `<https://github.com/cltk/tutorials/tree/master>`_ for the legacy tutorials.
 
 
-# About
+About
+=====
 
 Jupyter notebooks demonstrating how to use the CLTK.
 
 
-# Use
+Use
+===
 
 - Install supported Python version: ``$ git clone https://github.com/cltk/tutorials.git``
 - Make a virtual environment: ``$ python3 -m venv venv``
@@ -15,6 +17,7 @@ Jupyter notebooks demonstrating how to use the CLTK.
 - Start notebooks: ``make notebook``
 
 
-# License
+License
+=======
 
 MIT (see `LICENSE`).
